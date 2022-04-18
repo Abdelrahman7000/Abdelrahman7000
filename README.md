@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Data analysis and Data Science
 - 💞️ I’m looking to collaborate on ...
 - Connect with me
-- ![https://www.linkedin.com/in/abdelrahman-shaban-41607b167/](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)
+- ![https://www.linkedin.com/in/abdelrahman-shaban-41607b167/](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)
 - 📫 How to reach me ...
 
 <!---
