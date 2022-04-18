@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning Data analysis and Data Science
 - 💞️ I’m looking to collaborate on ...
 - Connect with me
-- DRAFTJS_BLOCK_KEY:qim6
-- 
+- https://www.linkedin.com/in/abdelrahman-shaban-41607b167/- 
 - 📫 How to reach me ...
 
 <!---
