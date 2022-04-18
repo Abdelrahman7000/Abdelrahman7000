@@ -3,6 +3,8 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data analysis and Data Science
 - 💞️ I’m looking to collaborate on ...
+- Connect with me
+- https://cdn-icons-png.flaticon.com/512/174/174857.png
 - 📫 How to reach me ...
 
 <!---
