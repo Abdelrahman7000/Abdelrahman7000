@@ -1,10 +1,16 @@
-## Hi there 👋
+## Hi there 👋 My name is Abdelrahman
 
 <!--
 **Abdelrahman7000/Abdelrahman7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
+As a data engineer I leverage my skills in Python, SQL, and other data engineering tools to extract, process, transform and deliver good quality data to support decision making. I hold the AWS Certified Data Engineer – Associate and SnowPro Core certifications. Also I enjoy exploring how things work under the hood that's why I love building projects through CodeCrafters.
 
+- 🌍 I'm based in Alexandria, Egypt
+- 🖥️ My portfolio: https://abdelrahman7000.github.io/
+- 📫 How to reach me: <a href='abdelrahman.shaban7000@gmail.com'> abdelrahman.shaban7000@gmail.com </a>
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
